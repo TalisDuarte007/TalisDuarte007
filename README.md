@@ -7,7 +7,7 @@ Engenheiro de Software
 Comecei a me aventurar no desenvolvimento por diversão em 2018, mas foi só em 2021, ao ingressar na graduação, que decidi levar essa paixão a sério. Atualmente, estou em busca de oportunidades de emprego na área para aplicar e expandir meus conhecimentos.
 
 * 🌍  Moro Rio Grande do Sul, Brasil
-* 🖥️  Você pode ver meu portfólio [aqui](tinyurl.com/Links-Bio-Talis/)
+* 🖥️  Você pode ver meu portfólio [aqui](https://tinyurl.com/Links-Bio-Talis/)
 * ✉️  Pode entrar em contato comigo aqui [tcd07@hotmail.com](mailto:tcd07@hotmail.com)
 * 🧠  Estou aprendendo React, e um pouquinho de Back-End com Java
 * 🤝  Estou aberto a colaborar em qualquer projeto web. Sou um desenvolvedor full-stack com foco no front-end.
