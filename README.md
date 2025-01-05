@@ -2,11 +2,11 @@
 
 ## Engenheiro de Software
 
-Comecei a me aventurar no desenvolvimento por diversão em 2018, mas foi só em 2021, ao ingressar na graduação, que decidi levar essa paixão a sério. Atualmente, estou em busca de oportunidades de emprego na área para aplicar e expandir meus conhecimentos.
+Comecei a me aventurar no desenvolvimento por diversão em 2018, foi só em 2021, ao ingressar na graduação, que decidi levar essa paixão a sério. Atualmente, estou em busca de oportunidades de emprego na área para aplicar e expandir meus conhecimentos.
 
-- 🌍  Moro Rio Grande do Sul, Brasil
+- 🌍  Moro no Rio Grande do Sul, Brasil
 - 🖥️  Você pode ver meu portfólio [aqui](https://tinyurl.com/Links-Bio-Talis/)
-- ✉️  Pode entrar em contato comigo aqui [tcd07@hotmail.com](mailto:tcd07@hotmail.com)
+- ✉️  Pode entrar em contato comigo por aqui [tcd07@hotmail.com](mailto:tcd07@hotmail.com)
 - 🧠  Estou aprendendo React, e um pouquinho de Back-End com Java
 - 🤝  Estou aberto a colaborar em qualquer projeto web. Sou um desenvolvedor full-stack com foco no front-end.
 - ⚡  Eu amo calopsitas.
@@ -23,9 +23,9 @@ Comecei a me aventurar no desenvolvimento por diversão em 2018, mas foi só em 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Meus Status no GitHub</b>
 
-<div width="100%" align="center" style="display: flex; justify-content: space-around; gap: 20px; flex-direction: colomn;">
+<div width="100%" style="justify-content: space-around; gap: 20px;">
 
 <a href="http://www.github.com/TalisDuarte007"><img src="https://github-readme-stats.vercel.app/api?username=TalisDuarte007&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="TalisDuarte007's GitHub stats" /></a>
 
@@ -37,7 +37,7 @@ Comecei a me aventurar no desenvolvimento por diversão em 2018, mas foi só em 
 
 <b>Top Repositórios</b>
 
-<div width="100%" align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+<div width="100%" align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/TalisDuarte007/My-Curriculum-React" style="width: 45%; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=My-Curriculum-React&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="width: 100%; height: auto;" />
   </a>
