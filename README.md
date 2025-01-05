@@ -38,16 +38,16 @@ Comecei a me aventurar no desenvolvimento por diversão em 2018, foi só em 2021
 <b>Top Repositórios</b>
 
 <div width="100%" align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/TalisDuarte007/My-Curriculum-React" style="width: 45%; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/TalisDuarte007/My-Curriculum-React" style="width: 40%; min-height: 90px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=My-Curriculum-React&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="width: 100%; height: auto;" />
   </a>
-  <a href="https://github.com/TalisDuarte007/Calculadora_Portas" style="width: 45%; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/TalisDuarte007/Calculadora_Portas" style="width: 40%; min-height: 90px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=Calculadora_Portas&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="width: 100%; height: auto;" />
   </a>
-  <a href="https://github.com/TalisDuarte007/ClosingTime-" style="width: 45%; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/TalisDuarte007/ClosingTime-" style="width: 40%; min-height: 90px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=ClosingTime-&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="width: 100%; height: auto;" />
   </a>
-  <a href="https://github.com/TalisDuarte007/my-link-in-bio-" style="width: 45%; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/TalisDuarte007/my-link-in-bio-" style="width: 40%; min-height: 90px; display: flex; flex-direction: column; justify-content: space-between; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=my-link-in-bio&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="width: 100%; height: auto;" />
   </a>
 </div>
