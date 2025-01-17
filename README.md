@@ -44,8 +44,8 @@ Comecei a me aventurar no desenvolvimento por diversão em 2018, foi só em 2021
   <a href="https://github.com/TalisDuarte007/Calculadora_Portas" style="width: 40%; height: 260px; display: flex; align-items: center; justify-content: center; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=Calculadora_Portas&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </a>
-  <a href="https://github.com/TalisDuarte007/ClosingTime-" style="width: 40%; height: 260px; display: flex; align-items: center; justify-content: center; background-color: #0f172a; padding: 10px; border-radius: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=ClosingTime-&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  <a href="https://github.com/TalisDuarte007/AudioAlert" style="width: 40%; height: 260px; display: flex; align-items: center; justify-content: center; background-color: #0f172a; padding: 10px; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=AudioAlert&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </a>
   <a href="https://github.com/TalisDuarte007/my-link-in-bio-" style="width: 40%; height: 260px; display: flex; align-items: center; justify-content: center; background-color: #0f172a; padding: 10px; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalisDuarte007&repo=my-link-in-bio&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
